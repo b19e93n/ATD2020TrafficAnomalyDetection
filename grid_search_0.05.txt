@@ -1,0 +1,125 @@
+grid_search/City1_f0.05_n15_2.40.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      704            1146          85576             374   0.380541  0.653061  0.480874  0.982688     1078
+0.05                         704            1146          85576             374   0.380541  0.653061  0.480874  0.982688     1078
+grid_search/City1_f0.05_n15_2.50.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      663             906          85816             415   0.422562  0.615028  0.500944  0.984954     1078
+0.05                         663             906          85816             415   0.422562  0.615028  0.500944  0.984954     1078
+grid_search/City1_f0.05_n15_2.60.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      613             715          86007             465   0.461596  0.568646  0.509559   0.98656     1078
+0.05                         613             715          86007             465   0.461596  0.568646  0.509559   0.98656     1078
+grid_search/City1_f0.05_n15_2.70.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      566             551          86171             512   0.506714  0.525046  0.515718  0.987893     1078
+0.05                         566             551          86171             512   0.506714  0.525046  0.515718  0.987893     1078
+grid_search/City1_f0.05_n15_2.80.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      516             430          86292             562   0.545455  0.478664  0.509881  0.988702     1078
+0.05                         516             430          86292             562   0.545455  0.478664  0.509881  0.988702     1078
+grid_search/City1_f0.05_n20_2.40.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      698            1141          85581             380   0.379554  0.647495  0.478574  0.982677     1078
+0.05                         698            1141          85581             380   0.379554  0.647495  0.478574  0.982677     1078
+grid_search/City1_f0.05_n20_2.50.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      660             890          85832             418   0.425806  0.612245  0.502283  0.985103     1078
+0.05                         660             890          85832             418   0.425806  0.612245  0.502283  0.985103     1078
+grid_search/City1_f0.05_n20_2.60.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      612             713          86009             466   0.461887  0.567718  0.509363  0.986572     1078
+0.05                         612             713          86009             466   0.461887  0.567718  0.509363  0.986572     1078
+grid_search/City1_f0.05_n20_2.70.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      575             566          86156             503   0.503944  0.533395  0.518251  0.987825     1078
+0.05                         575             566          86156             503   0.503944  0.533395  0.518251  0.987825     1078
+grid_search/City1_f0.05_n20_2.80.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      531             437          86285             547   0.548554  0.492579  0.519062  0.988793     1078
+0.05                         531             437          86285             547   0.548554  0.492579  0.519062  0.988793     1078
+grid_search/City1_f0.05_n25_2.40.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      674            1033          85689             404   0.394845  0.625232  0.484022  0.983633     1078
+0.05                         674            1033          85689             404   0.394845  0.625232  0.484022  0.983633     1078
+grid_search/City1_f0.05_n25_2.50.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      631             805          85917             447   0.439415  0.585343  0.501989   0.98574     1078
+0.05                         631             805          85917             447   0.439415  0.585343  0.501989   0.98574     1078
+grid_search/City1_f0.05_n25_2.60.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      580             642          86080             498   0.474632  0.538033  0.504348  0.987016     1078
+0.05                         580             642          86080             498   0.474632  0.538033  0.504348  0.987016     1078
+grid_search/City1_f0.05_n25_2.70.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      541             508          86214             537   0.515729  0.501855  0.508698  0.988098     1078
+0.05                         541             508          86214             537   0.515729  0.501855  0.508698  0.988098     1078
+grid_search/City1_f0.05_n25_2.80.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      492             393          86329             586   0.555932  0.456401  0.501274   0.98885     1078
+0.05                         492             393          86329             586   0.555932  0.456401  0.501274   0.98885     1078
+grid_search/City1_f0.05_n30_2.40.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      602             857          85865             476   0.412611  0.558442  0.474576  0.984818     1078
+0.05                         602             857          85865             476   0.412611  0.558442  0.474576  0.984818     1078
+grid_search/City1_f0.05_n30_2.50.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      557             675          86047             521    0.45211  0.516698  0.482251  0.986378     1078
+0.05                         557             675          86047             521    0.45211  0.516698  0.482251  0.986378     1078
+grid_search/City1_f0.05_n30_2.60.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      514             540          86182             564   0.487666  0.476809  0.482176  0.987426     1078
+0.05                         514             540          86182             564   0.487666  0.476809  0.482176  0.987426     1078
+grid_search/City1_f0.05_n30_2.70.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision   Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                               
+overall                      484             417          86305             594   0.537181  0.44898  0.489136  0.988485     1078
+0.05                         484             417          86305             594   0.537181  0.44898  0.489136  0.988485     1078
+grid_search/City1_f0.05_n30_2.80.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision   Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                               
+overall                      437             321          86401             641   0.576517  0.40538  0.476035  0.989043     1078
+0.05                         437             321          86401             641   0.576517  0.40538  0.476035  0.989043     1078
+grid_search/City1_f0.05_n35_2.40.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      562             699          86023             516   0.445678  0.521336  0.480547  0.986162     1078
+0.05                         562             699          86023             516   0.445678  0.521336  0.480547  0.986162     1078
+grid_search/City1_f0.05_n35_2.50.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      524             554          86168             554   0.486085  0.486085  0.486085   0.98738     1078
+0.05                         524             554          86168             554   0.486085  0.486085  0.486085   0.98738     1078
+grid_search/City1_f0.05_n35_2.60.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      485             454          86268             593   0.516507  0.449907  0.480912  0.988075     1078
+0.05                         485             454          86268             593   0.516507  0.449907  0.480912  0.988075     1078
+grid_search/City1_f0.05_n35_2.70.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision    Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                                
+overall                      456             346          86376             622   0.568579  0.423006  0.485106  0.988975     1078
+0.05                         456             346          86376             622   0.568579  0.423006  0.485106  0.988975     1078
+grid_search/City1_f0.05_n35_2.80.csv
+                   True Positive  False Positive  True Negative  False Negative  Precision  Recall        F1  Accuracy  Support
+Fraction_Observed                                                                                                              
+overall                      416             270          86452             662   0.606414  0.3859  0.471655  0.989385     1078
+0.05                         416             270          86452             662   0.606414  0.3859  0.471655  0.989385     1078
